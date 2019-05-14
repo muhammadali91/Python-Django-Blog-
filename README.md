@@ -1,0 +1,2 @@
+# Python-Django-Blog-
+I develop the Weblogs, or in short “blogs”, are nowadays a popular form of communication. They serve as a public online diary, allowing one or several authors to write short articles (“blog entries”) for a larger community to read. Articles are visible to any web site visitor without registration. Interaction with the blog software may, however, require authorization first. This project aims to develop a software package that can be used to host a small blog 
